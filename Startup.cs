@@ -27,7 +27,7 @@ namespace web_app_demo
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                await context.Response.WriteAsync("All the best for  Az300 exam");
             });
         }
     }
