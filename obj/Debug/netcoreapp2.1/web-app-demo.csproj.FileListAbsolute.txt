@@ -1,0 +1,14 @@
+C:\Users\703252640\web-app-demo\bin\Debug\netcoreapp2.1\web-app-demo.deps.json
+C:\Users\703252640\web-app-demo\bin\Debug\netcoreapp2.1\web-app-demo.runtimeconfig.json
+C:\Users\703252640\web-app-demo\bin\Debug\netcoreapp2.1\web-app-demo.runtimeconfig.dev.json
+C:\Users\703252640\web-app-demo\bin\Debug\netcoreapp2.1\web-app-demo.dll
+C:\Users\703252640\web-app-demo\bin\Debug\netcoreapp2.1\web-app-demo.pdb
+C:\Users\703252640\web-app-demo\obj\Debug\netcoreapp2.1\web-app-demo.csprojAssemblyReference.cache
+C:\Users\703252640\web-app-demo\obj\Debug\netcoreapp2.1\web-app-demo.csproj.CoreCompileInputs.cache
+C:\Users\703252640\web-app-demo\obj\Debug\netcoreapp2.1\web-app-demo.RazorAssemblyInfo.cache
+C:\Users\703252640\web-app-demo\obj\Debug\netcoreapp2.1\web-app-demo.RazorAssemblyInfo.cs
+C:\Users\703252640\web-app-demo\obj\Debug\netcoreapp2.1\web-app-demo.AssemblyInfoInputs.cache
+C:\Users\703252640\web-app-demo\obj\Debug\netcoreapp2.1\web-app-demo.AssemblyInfo.cs
+C:\Users\703252640\web-app-demo\obj\Debug\netcoreapp2.1\web-app-demo.RazorTargetAssemblyInfo.cache
+C:\Users\703252640\web-app-demo\obj\Debug\netcoreapp2.1\web-app-demo.dll
+C:\Users\703252640\web-app-demo\obj\Debug\netcoreapp2.1\web-app-demo.pdb
